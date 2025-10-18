@@ -10,7 +10,7 @@ This project implements a Retrieval Augmented Generation (RAG) based system for 
 3. Retrieval Augmentation
 4. Generation and Evaluation, including internal tokenization during generation
 5. Interactive QA Loop
-6. 
+
 Dataset used: Stanford Question Answering Dataset (SQuAD v1.1)
 Embedding Model: models/text-embedding-004 (Google Gemini Embeddings)
 Vector Database: ChromaDB
