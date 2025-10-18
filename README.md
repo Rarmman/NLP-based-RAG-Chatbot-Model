@@ -12,9 +12,15 @@ This project implements a Retrieval Augmented Generation (RAG) based system for 
 5. Interactive QA Loop
 
 Dataset used: Stanford Question Answering Dataset (SQuAD v1.1)
+
 Embedding Model: models/text-embedding-004 (Google Gemini Embeddings)
+
 Vector Database: ChromaDB
+
 Generation Model: Gemini-2.0-Flash
+
 Evaluation Metrics: SQuAD EM and F1, ROUGE-L, BLEU, Precision, Recall, custom F1
+
 Input: User query
+
 Output: Corresponding Response
